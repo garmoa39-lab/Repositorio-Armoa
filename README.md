@@ -1,3 +1,5 @@
 problemas interesantes
 análisis de presupuestos 
-el problema de calle Guido Spano
+el problema de la calle Guido Spano
+
+la teoría de grafos de aplazamiento de cuotas
